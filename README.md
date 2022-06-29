@@ -1,6 +1,6 @@
 
 
 
-
-
-будут игнорироваться все файлы в имени которых есть буквосочетание IGNORE
+# Ignore files
+.terraform
+has been moved.txt
