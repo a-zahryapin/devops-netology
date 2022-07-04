@@ -1,7 +1,5 @@
 
 
 
-# Ignore files
-.terraform
-
-has been moved.txt
+# Игнорируется файл в каталоге terrarorm
+access.log
